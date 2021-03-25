@@ -403,7 +403,7 @@ tmux_conf_update_plugins_on_reload=true
 # }
 # myip() {
 #   curl -m 1 myip.ipip.net 2>/dev/null | awk -F "：" '{print $2}' |  awk -F " " '{print $1}'
-#   # sleep 900 
+#   sleep 900 
 # }
 #
 # "$@"
