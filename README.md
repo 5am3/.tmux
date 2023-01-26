@@ -5,6 +5,23 @@ Self-contained, pretty and versatile `.tmux.conf` configuration file.
 
 ![Screenshot](https://cloud.githubusercontent.com/assets/553208/19740585/85596a5a-9bbf-11e6-8aa1-7c8d9829c008.gif)
 
+
+User Options
+------------
+
+1. iTerm2 识别tmux选区
+
+```
+Edit => Selection Respects Soft Boundaries
+```
+
+User Preferences
+------------
+
+1. 删除C-a快捷键，保留默认C-b。
+2. history记录5000->500000
+
+
 Installation
 ------------
 
